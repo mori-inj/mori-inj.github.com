@@ -91,7 +91,6 @@ von과 captha_svm 같은 머신러닝 프로젝트들은 알고리즘을 공부�
 * 이미지  
   ![](https://raw.githubusercontent.com/mori-inj/mori-inj.github.com/master/sphere.png)
   ![](https://raw.githubusercontent.com/mori-inj/mori-inj.github.com/master/function.png)
-* 그래픽스 수업을 수강하기 전에 만든 프로젝트로, 당시 openGL에 대한 지식이 전무한 상태에서 수학적 지식에만 의존해 프로젝트 진행
 * 레이캐스터까지 구현한 상태이며, cpu만 사용 && gdi의 성능상 속도에 한계가 있음
 
 
@@ -120,7 +119,6 @@ von과 captha_svm 같은 머신러닝 프로젝트들은 알고리즘을 공부�
 ### Office Document Structure Parsing and Analysis
 * 창의적통합설계 수업 과제로 각 팀 별로 회사들이 제안한 프로젝트를 수행. [소프트캠프](http://www.softcamp.co.kr/)사의 제안으로 한 학기 동안 xlsx, docx, pptx, xls, doc, ppt, pdf의 7가지 유형의 문서 파일의 구조를 분석하고 구조이상이나 CVE취약점을 이용한 악성코드가 삽입되어 있을 경우 이를 제거하고 문서 재조합을 시도하는 프로그램을 만듦
 * C#, Open Xml SDK 사용
-* xlsx, docxx, pptx, pdf의 경우 문서 구조 분석은 간단했으나 Microsoft Office 2007 및 그 이전 버전 프로그램에서 작성된 xls, doc, ppt 파일에 대해선 구조 분석이 매우 어려움을 깨달음. 
 
 
 ### [NAVER movie crawler](https://github.com/mori-inj/naver_movie_crawler)
