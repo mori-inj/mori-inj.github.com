@@ -16,9 +16,7 @@ leokim1022@snu.ac.kr  |  [github](https://github.com/mori-inj)
 
 ## 재미있게 들은 수업
 * Computer Science
-  * Algorithm & Data Structure   
-      Array, LinkedList, Stack, Queue, Sorting, Tree, HashTable, Heap(prioriy queue), Balanced Search Tree, Graph  
-      Advanced Sorting, Order Statistics, DP, DisjointSet(union-find), Greedy, String Matching, MST, ShortestPath, NP
+  * Algorithm & Data Structure
   * Programming Principle, Automata
 * Hardware
   * Logic Design
